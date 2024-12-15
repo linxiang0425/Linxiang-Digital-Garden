@@ -1,5 +1,5 @@
 ---
-{"title":"Lin Xiang's Digital Garden","dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/","title":"Lin Xiang's Digital Garden","tags":["gardenEntry"]}
 ---
 
 
