@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","title":"首页","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","title":"首页","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
