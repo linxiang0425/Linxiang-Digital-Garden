@@ -5,7 +5,7 @@
 
 # 🏠首页
 ---
-建站者：linxiang
+建站者：Lin Xiang
 邮箱： linxiang0425@outlook.com
 
 # 📗日语
