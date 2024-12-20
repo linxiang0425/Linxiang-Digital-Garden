@@ -13,6 +13,7 @@
 [[标准日本语（初级）-知识点合集\|标准日本语（初级）-知识点合集]]
 [[日语语法\|日语语法]]
 [[历年高考日语试题分析\|历年高考日语试题分析]]
+[[其他日语试题分析\|其他日语试题分析]]
 [[日本语能力测试（JLPT／The Japanese-Language Proficiency Test）\|日本语能力测试（JLPT／The Japanese-Language Proficiency Test）]]
 [[日语写作\|日语写作]]
 # 📕英语
