@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/Home/","title":"首页","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-
-# 🏠首页
----
-建站者：Lin Xiang
-邮箱： linxiang0425@outlook.com
+```
+Lin Xiang
+linxiang0425@outlook.com
+```
 
 # 📗日语
 ---
