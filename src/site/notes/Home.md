@@ -15,7 +15,7 @@
 [[历年高考日语试题分析\|历年高考日语试题分析]]
 [[其他日语试题分析\|其他日语试题分析]]
 [[日本语能力测试（JLPT／The Japanese-Language Proficiency Test）\|日本语能力测试（JLPT／The Japanese-Language Proficiency Test）]]
-[[日语写作\|日语写作]]
+[[高考日语写作\|高考日语写作]]
 # 📕英语
 ---
 [[英语音标\|英语音标]]
